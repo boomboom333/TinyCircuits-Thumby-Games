@@ -1,3 +1,9 @@
+NAME=WORIDII
+https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/WORIDII/arcade_title_image.png
+https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/WORIDII/arcade_description.txt
+https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/WORIDII/WORIDII.py
+https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/WORIDII/WORIDII.bin
+
 NAME=Fifteen
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/Fifteen/arcade_description.txt
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/Fifteen/arcade_title_video.webm
