@@ -1,3 +1,10 @@
+NAME=MidiPlayer
+https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/MidiPlayer/emulator_video.webm
+https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/MidiPlayer/arcade_description.txt
+https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/MidiPlayer/MidiPlayer.py
+https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/MidiPlayer/polysynth.py
+https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/MidiPlayer/midi.py
+
 NAME=WORIDII
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/WORIDII/arcade_title_image.png
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/WORIDII/arcade_description.txt
@@ -9,12 +16,16 @@ https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/Fifteen/arcade_title_video.webm
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/Fifteen/Fifteen.py
 
-NAME=MidiPlayer
-https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/MidiPlayer/emulator_video.webm
-https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/MidiPlayer/arcade_description.txt
-https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/MidiPlayer/MidiPlayer.py
-https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/MidiPlayer/polysynth.py
-https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/MidiPlayer/midi.py
+NAME=FlightSim
+https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/FlightSim/arcade_description.txt
+https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/FlightSim/FlightSim.blocks
+https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/FlightSim/FlightSim.py
+https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/FlightSim/arcade_title_video.webm
+
+NAME=GeometryDash
+https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/GeometryDash/arcade_description.txt
+https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/GeometryDash/GeometryDash.py
+https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/GeometryDash/arcade_title_video.webm
 
 NAME=Thumbthello
 https://raw.githubusercontent.com/TinyCircuits/TinyCircuits-Thumby-Games/master/Thumbthello/arcade_description.txt
